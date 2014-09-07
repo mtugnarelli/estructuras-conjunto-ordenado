@@ -23,3 +23,4 @@ UNTreF - Estructura de Datos 2
 
 1. Clase [`Alumno`](../ejercicio-01/src/ar/edu/untref/edd2/conjuntos/Alumno.java)
 
+2. Clases [`Curso`](../ejercicio-02/src/ar/edu/untref/edd2/conjuntos/Curso.java) y  [`TestCurso`](../ejercicio-02/src/ar/edu/untref/edd2/conjuntos/TestCurso.java)
