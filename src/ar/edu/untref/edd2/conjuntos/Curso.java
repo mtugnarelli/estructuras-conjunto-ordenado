@@ -9,6 +9,11 @@ public class Curso {
     
     private List<Alumno> alumnos;
     
+    /**
+     * post: el Curso queda inicializado con el nombre indicado y sin Alumnos
+     *       asignados.
+     * @param nombre
+     */
     public Curso(String nombre) {
         
         this.nombre = nombre;
@@ -21,7 +26,7 @@ public class Curso {
     }
     
     /**
-     * post: agrega el Alumno al curso, quedando asociado al último número 
+     * post: agrega el Alumno al Curso, quedando asociado al último número 
      *       de orden disponible.  
      * 
      * @param alumno : nuevo Alumno del Curso.
